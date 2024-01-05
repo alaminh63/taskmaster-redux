@@ -21,6 +21,7 @@ const Sidebar = () => {
               : 'p-2 rounded-2xl group hover:bg-primary text-secondary/40 cursor-pointer transition-all'
           }
         >
+          
           <SquaresPlusIcon className="h-7 w-7 group-hover:text-white" />
         </NavLink>
         <NavLink
