@@ -23,6 +23,7 @@ const Sidebar = () => {
         >
 
           
+          
           <SquaresPlusIcon className="h-7 w-7 group-hover:text-white" />
         </NavLink>
         <NavLink
